@@ -1,0 +1,23 @@
+body {
+  margin: 40px;
+}
+.canvas-button {
+  cursor: pointer;
+  margin: 2px
+}
+#view {
+  margin: 4px
+}
+.App-header {
+  display: flex;
+}
+
+.App-header > * {
+  align-self: flex-start;
+}
+
+.App-header img {
+  cursor: pointer;
+  padding: 6px;
+  margin-left: 12px
+}
